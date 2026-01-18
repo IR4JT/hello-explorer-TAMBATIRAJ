@@ -1,6 +1,6 @@
 a.active {
-    font-weight: bold;
-}
+    font-weight: bold;}
+/* Bolder vs Bold interesting looks same*/
 
 body {
   background-color: #E6EBE4;
@@ -21,3 +21,6 @@ body {
   font-size: 25px;
 }
 
+.links a:hover {color: #41708A;}
+
+/* Googles AI overview when I searched up, "hex color for earth blue" gave #41708A so I use. */
