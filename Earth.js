@@ -1,3 +1,3 @@
 // Add JavaScript below
 
-alert( 'Hello, you have clicked a link.' );
+alert( 'Hello, welcome to my Earth and Moon website.' );
