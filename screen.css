@@ -9,11 +9,20 @@ body {
   line-height: 1.5;
 }
 
+
 .links {
   display: flex;
-  gap: 40px;
+  gap: 20px;
   justify-content: center;
-  list-style: none;}
+  list-style: none;
+  padding: 0;
+  margin: 0;}
+
+/* .links {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  list-style: none;} */
 
 .links a {
   text-decoration: none;
@@ -24,3 +33,5 @@ body {
 .links a:hover {color: #41708A;}
 
 /* Googles AI overview when I searched up, "hex color for earth blue" gave #41708A so I use. */
+
+h1{ text-align: center; }
