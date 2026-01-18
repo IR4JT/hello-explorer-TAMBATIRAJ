@@ -48,5 +48,15 @@ h1{ text-align: center; }
   height: auto;
 }
 
+.THEMOON .MoonPic{
+    width: 500px;
+    max-width: 500px;
+}
+
+.THEMOON .EarthPic{
+    width: 200px;
+    max-width: 200px;
+}
+
 main{text-align: center;}
 
