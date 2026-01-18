@@ -35,3 +35,15 @@ body {
 /* Googles AI overview when I searched up, "hex color for earth blue" gave #41708A so I use. */
 
 h1{ text-align: center; }
+
+.EarthPic{
+  width: 400px;
+  max-width: 400px;
+  height: auto;
+}
+
+.MoonPic{
+  width: 400px;
+  max-width: 400px;
+  height: auto;
+}
