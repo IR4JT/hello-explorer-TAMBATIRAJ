@@ -1,4 +1,23 @@
-/* Add screen styles below */
 a.active {
     font-weight: bold;
 }
+
+body {
+  background-color: #E6EBE4;
+  color: #000000;
+  font-family: "SF Pro Display";
+  line-height: 1.5;
+}
+
+.links {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  list-style: none;}
+
+.links a {
+  text-decoration: none;
+  color: #6B8E5A;
+  font-size: 25px;
+}
+
